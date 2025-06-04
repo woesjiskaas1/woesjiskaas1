@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @woesjiskaas1
+- 👋 Hi, I’m @woesjiskaas1/senn
 - 👀 I’m interested in games
 - 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me idk
-- 😄 Pronouns: brick
+- 💞️ I’m looking to collaborate on nothing CURRENTLY
+- 📫 How to reach me: email
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: planes drive on the ground
 
 <!---
